@@ -1,2 +1,1 @@
-# helloPJ
-git tutorial in 
+My project
